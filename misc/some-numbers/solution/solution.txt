@@ -1,0 +1,4 @@
+When the number is put into Tupper's self-referential formula, the flag is shown.
+http://tuppers-formula.tk/
+
+flag{tup_num}

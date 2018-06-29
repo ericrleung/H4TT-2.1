@@ -1,0 +1,3 @@
+Title: Advanced Stegonography
+
+Author: David Petrasovic

@@ -1,0 +1,3 @@
+When the description is put into this site, https://offdev.net/demos/zwsp-steg-js the flag is revealed.
+
+flag{it_w4s_th3r3_th3_whol3_tim3}
